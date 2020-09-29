@@ -17,12 +17,12 @@
 
 
 * * *
-<img src="/img/993244_2020_09_28_15_31_45.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
-<img src="/img/012445_2020_09_28_16_08_54.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
-<img src="/img/027221_2020_09_28_15_43_30.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
-<img src="/img/042852_2020_09_28_15_30_01.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
-<img src="/img/128811_2020_09_27_17_59_48.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
-<img src="/img/129737_2020_09_28_16_15_52.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
-<img src="/img/130251_2020_09_27_18_00_08.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+<img src="/img/993244_2020_09_28_15_31_45.png" width="10%" height="5%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+<img src="/img/012445_2020_09_28_16_08_54.png" width="10%" height="5%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+<img src="/img/027221_2020_09_28_15_43_30.png" width="10%" height="5%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+<img src="/img/042852_2020_09_28_15_30_01.png" width="10%" height="5%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+<img src="/img/128811_2020_09_27_17_59_48.png" width="10%" height="5%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+<img src="/img/129737_2020_09_28_16_15_52.png" width="10%" height="5%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+<img src="/img/130251_2020_09_27_18_00_08.png" width="10%" height="5%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
 
  <img_폴더의 captcha 예시>
