@@ -3,4 +3,8 @@
 2. 딥러닝 기술을 이용한 정확도 개선 - (데이터 수집중)
 
 
+
+
+
 <img src="/img/993244_2020_09_28_15_31_45.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+#####<captcha 예시>
