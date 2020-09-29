@@ -6,5 +6,5 @@
 
 
 
-<img src="/img/993244_2020_09_28_15_31_45.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-#####<captcha 예시>
+<img src="/img/993244_2020_09_28_15_31_45.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+ <captcha 예시>
