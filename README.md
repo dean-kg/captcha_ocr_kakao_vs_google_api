@@ -26,3 +26,6 @@
 <img src="/img/130251_2020_09_27_18_00_08.png" width="10%" height="5%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
 
  <img_폴더의 captcha 예시>
+
+* * *   
+* 데이터 추가수집완료 (2500개) 모델 작업중(2020-10-22)
